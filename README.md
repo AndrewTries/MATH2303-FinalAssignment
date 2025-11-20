@@ -1,0 +1,7 @@
+### Authors
+- Andrew Krawiec
+- Mojib Azizi
+
+## Math 2303 Final Assignment
+A Logistical Regression analysis on the factors effecting kidney transplant outcomes.
+Intial dataset found [Here](https://www.kaggle.com/datasets/zoya77/kidney-organ-transplantation-patient-donor-data)
