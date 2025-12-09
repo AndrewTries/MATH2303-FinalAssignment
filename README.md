@@ -1,5 +1,5 @@
 ### Authors
-- Andrew Krawiec
+- Andrew Krawiec akraw904@mtroyal.ca
 - Mojib Azizi
 
 ## Math 2303 Final Assignment
