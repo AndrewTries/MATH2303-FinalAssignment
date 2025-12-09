@@ -3,8 +3,8 @@
 - Mojib Azizi
 
 # Contacts
-Email: maziz731@mtroyal.ca  (Mojib)
-Email:  akraw904@mtroyal.ca (Andrew)
+- Email: maziz731@mtroyal.ca  (Mojib)
+- Email:  akraw904@mtroyal.ca (Andrew)
 
 ## Math 2303 Final Assignment
 A MLP Regression analysis on the factors affecting weather a tumor is benign or cancerous.
